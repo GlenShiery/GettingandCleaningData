@@ -1,4 +1,7 @@
+This file describes the output data from the accompanying R script, run_analysis.R. 
+
 Subject	1-30 volunteer subjects, ages 19 - 48
+
 Activity_Label	6 activities - LAYING ,SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 
 79 additional parameters follow that contain means and standard deviation. These values are between -1 and 1.
