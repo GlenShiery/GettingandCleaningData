@@ -1,7 +1,7 @@
 Subject	1-30 volunteer subjects, ages 19 - 48
 Activity_Label	6 activities - LAYING ,SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 
-79 additional parameters follow that contain means and standard deviation.
+79 additional parameters follow that contain means and standard deviation. These values are between -1 and 1.
 
 These parameters are sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
